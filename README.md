@@ -1,5 +1,4 @@
-# cs50ai-week1-Knights
-## a program to solve logic puzzles.
+# a program to solve logic puzzles.
 
 In 1978, logician Raymond Smullyan published “What is the name of this book?”, a book of logical puzzles. Among the puzzles in the book were a class of puzzles that Smullyan called “Knights and Knaves” puzzles.
 
